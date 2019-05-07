@@ -6,6 +6,6 @@
   </head>
   <main>
     <section>
-      <p><strong> Ionic</strong> One codebase. Any platform. Ionic helps developers build and ship beautiful cross-platform hybrid apps.
+      <p><strong> Ionic</strong>, One codebase. Any platform. Ionic helps developers build and ship beautiful cross-platform hybrid apps.
       </p>
     </section>
